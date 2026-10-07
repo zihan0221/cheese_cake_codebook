@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.3)  14 SEP 2026 21:47
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.5.3)  7 OCT 2026 11:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -952,19 +952,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [16] (./string/z_value.cpp) (./string/minrotation.cpp) (./dp/digit.cpp)
-(./dp/sos.cpp) (./dp/p_median.cpp) (./other/black_magic.cpp)
+(./dp/sos.cpp) (./dp/p_median.cpp) (./dp/enumerate_subset.cpp)
+(./other/black_magic.cpp)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [17]
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 409--410
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 412--413
 [][] 
  []
 
 
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 420--421
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 423--424
 [][] 
  []
 
@@ -974,12 +975,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [18]
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 437--438
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 440--441
 [][] 
  []
 
 
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 448--451
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 451--454
 [][]
  []
 
@@ -989,12 +990,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [19]
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 464--465
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 467--468
 [][] 
  []
 
 
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 475--476
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 478--479
 [][] 
  []
 
@@ -1004,12 +1005,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [20]
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 492--493
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 495--496
 [][] 
  []
 
 
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 503--504
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 506--507
 [][] 
  []
 
@@ -1019,12 +1020,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [21]
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 520--521
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 523--524
 [][] 
  []
 
 
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 531--532
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 534--535
 [][] 
  []
 
@@ -1034,12 +1035,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [22]
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 548--549
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 551--552
 [][] 
  []
 
 
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 559--560
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 562--563
 [][] 
  []
 
@@ -1049,12 +1050,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [23]
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 576--577
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 579--580
 [][] 
  []
 
 
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 587--588
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 590--591
 [][] 
  []
 
@@ -1064,12 +1065,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [24]
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 604--605
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 607--608
 [][] 
  []
 
 
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 615--616
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 618--619
 [][] 
  []
 
@@ -1079,12 +1080,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [25]
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 632--633
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 635--636
 [][] 
  []
 
 
-Overfull \hbox (265.0885pt too wide) in paragraph at lines 643--644
+Overfull \hbox (265.0885pt too wide) in paragraph at lines 646--647
 [][] 
  []
 
@@ -1104,10 +1105,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20968 strings out of 468168
- 460560 string characters out of 5432816
+ 20976 strings out of 468168
+ 460734 string characters out of 5432816
  2308824 words of memory out of 5000000
- 49154 multiletter control sequences out of 15000+600000
+ 49159 multiletter control sequences out of 15000+600000
  629818 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,438b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s

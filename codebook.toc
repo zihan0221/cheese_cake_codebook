@@ -74,5 +74,6 @@
 \contentsline {subsection}{\numberline {8.1}數位 dp}{17}{}%
 \contentsline {subsection}{\numberline {8.2}SOS dp}{17}{}%
 \contentsline {subsection}{\numberline {8.3}p-median}{17}{}%
+\contentsline {subsection}{\numberline {8.4}枚舉子集}{17}{}%
 \contentsline {section}{\numberline {9}Other}{17}{}%
 \contentsline {subsection}{\numberline {9.1}黑魔法、名次樹}{17}{}%
