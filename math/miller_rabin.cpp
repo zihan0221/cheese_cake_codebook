@@ -6,9 +6,11 @@
 // Make sure testing integer is in range [2, n−2] if
 // you want to use magic.
 LL magic[]={}
+// 寫一個i128的mul
+// 寫裡面有mul的fpow
 bool witness(LL a,LL n,LL u,int t){
 	if(!a) return 0;
-	LL x=mypow(a,u,n);
+	LL x=fpow(a,u,n);
 	for(int i=0;i<t;i++) {
 		LL nx=mul(x,x,n);
 		if(nx==1&&x!=1&&x!=n-1) return 1;
